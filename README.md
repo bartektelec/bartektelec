@@ -13,7 +13,7 @@
 ## Tech I like / want to try out
 - 🌌 React.js
 - 🌀 TypeScript
-- 🪐 Node.js
+- 🔋 Node.js
 - 🔌 WebSockets
 - 🦕 Deno
 - 🕹 Phaser.js
