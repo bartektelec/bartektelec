@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 👨‍🎓 I am a Front-end developement student based in Oslo, Norway.
-- 🔭 I’m currently working on a multiplayer Tic Tac Toe game.
 - 🌱 I’m currently learning TypeScript and Node.js.
 - 🪐 See my progress on [exercism.io](https://exercism.io/profiles/bartektelec), where I work to improve my code quality.
 - ⚔ See my progress on [codewars.io](https://www.codewars.com/users/bartektelec) - currently ranked 6 kyu 🥋.
