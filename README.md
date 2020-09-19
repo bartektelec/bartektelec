@@ -8,14 +8,16 @@
 - 🗓 Currently working with [@Pierniki](https://github.com/Pierniki/) on an app that helps busy people schedule meetings. [[github repo]](https://github.com/bartektelec/book-my-time)
 - ⚡ Fun fact: My first ever programming language was QBASIC. I later learned some PHP, don't judge me for that.
 
-## Tech I like / want to try out
+## Tech I like 
 - 🌌 React.js
 - 🌀 TypeScript
 - 🔋 Node.js
 - 🔌 WebSockets
+## Tech I want to try out
 - 🦕 Deno
+- 💚 Vue
+- 🌶 Angular.io
 - 🕹 Phaser.js
-- 🌶 Angular
 
 <!--
 **bartektelec/bartektelec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
