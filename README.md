@@ -12,10 +12,10 @@
 - 🌌 React.js
 - 🌀 TypeScript
 - 🔋 Node.js
-- 🔌 WebSockets
-## Tech I want to try out
 - 🦕 Deno
 - 💚 Vue
+## Tech I want to try out
+- 🔌 WebSockets
 - 🌶 Angular.io
 - 🕹 Phaser.js
 
