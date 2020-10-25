@@ -7,7 +7,6 @@
 - 📝 I have recently started solving algorithmic problems on [leetcode.com](https://leetcode.com/bartektelec/) as well 🧠.
 - 🎞 Check out an [app](https://bartektelec.github.io/react-netflix-clone/) I made using React, styled-components, storybook and The MovieDB REST API. [[github repo]](https://github.com/bartektelec/react-netflix-clone)
 - 🗓 Currently working with [@Pierniki](https://github.com/Pierniki/) on an app that helps busy people schedule meetings. [[github repo]](https://github.com/bartektelec/book-my-time)
-- ⚡ Fun fact: My first ever programming language was QBASIC. I later learned some PHP, don't judge me for that.
 
 ## Tech I like 
 - 🌌 React.js
