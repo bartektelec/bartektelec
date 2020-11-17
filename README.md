@@ -3,6 +3,7 @@
 - 👨‍🎓 I am a Front-end developement student based in Oslo, Norway.
 - 🌱 I’m currently learning TypeScript and Vue.
 - 💁‍♂️ Looking for a job, hit me up!
+- ☕ If you want to talk I speak Norwegian, English and Polish.
 
 
 ## Projects
