@@ -1,9 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bartektelec.bartektelec-readme)
 
-<div align="middle">
-  <p>You can reach me here:</p>
-  📧 [E-mail][URLemail] 🕵️‍♂️ [LinkedIn][URLlinkedin]
-</div>
+You can reach me here:
+📧 [E-mail][URLemail] 
+🕵️‍♂️ [LinkedIn][URLlinkedin]
 
 ## Hi there 👋
 
