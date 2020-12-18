@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bartektelec.bartektelec-readme)
 
 <div align="middle">
-  [📧 E-mail](mailto:bartektelec@gmail.com)[🕵️‍♂️ LinkedIn](https://www.linkedin.com/in/bartlomiej-telec-212755153/)
+  📧 [E-mail][URLemail] 🕵️‍♂️ [LinkedIn][URLlinkedin]
 </div>
 
 ## Hi there 👋
@@ -31,3 +31,6 @@
 - 🔋 Node.js
 - 🦕 Deno
 - 💚 Vue
+
+[URLemail]:mailto:bartektelec@gmail.com
+[URLlinkedin]:https://www.linkedin.com/in/bartlomiej-telec-212755153/
