@@ -1,4 +1,8 @@
-### 📧 [E-mail](mailto:bartektelec@gmail.com) 🕵️‍♂️ [LinkedIn](https://www.linkedin.com/in/bartlomiej-telec-212755153/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bartektelec.bartektelec-readme)
+
+<div align="middle">
+  [📧 E-mail](mailto:bartektelec@gmail.com)[🕵️‍♂️ LinkedIn](https://www.linkedin.com/in/bartlomiej-telec-212755153/)
+</div>
 
 ## Hi there 👋
 
@@ -27,22 +31,3 @@
 - 🔋 Node.js
 - 🦕 Deno
 - 💚 Vue
-
-## Tech I want to try out
-- 🔌 WebSockets
-- 🌶 Angular.io
-- 🕹 Phaser.js
-
-<!--
-**bartektelec/bartektelec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
