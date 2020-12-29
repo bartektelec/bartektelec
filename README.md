@@ -14,7 +14,6 @@ You can reach me here:
 
 ## Projects
 - 👟 [Shuuz](https://github.com/bartektelec/shuuz-client) - Shoe e-commerce website. Vue 3, Vuex, TypeScript, Tailwind CSS, JWT, Strapi. [[source]](https://github.com/bartektelec/shuuz-client) [[demo]](https://bartektelec.github.io/shuuz-client/)
-`Admin credentials: admin/Pass1234`
 - 📺 [Lameflix](https://github.com/bartektelec/react-netflix-clone) - Movie and series search, inspired to be a netflix clone. React, styled-components, storybook. [[source]](https://github.com/bartektelec/react-netflix-clone) [[demo]](https://bartektelec.github.io/react-netflix-clone/)
 - 🍔 [Foodie](https://github.com/bartektelec/foodie-app) - Food ordering / restaurant searching app. Vanilla JS (own view library) + Strapi on heroku. **demo might take a minute to load** [[source]](https://github.com/bartektelec/foodie-app) [[demo]](https://bartektelec.github.io/foodie-app/index.html)
 - 🎨 [JS color utility](https://github.com/bartektelec/color-utility) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utility)
