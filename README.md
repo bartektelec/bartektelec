@@ -32,4 +32,5 @@ You can reach me here:
 - 💚 Vue
 
 [URLemail]:mailto:bartektelec@gmail.com
-[URLlinkedin]:https://www.linkedin.com/in/bartlomiej-telec-212755153/
+[URLlinkedin]:https://www.linkedin.com/in/bart-telec
+
