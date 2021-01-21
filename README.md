@@ -16,8 +16,12 @@ You can reach me here:
 - 👟 [Shuuz](https://github.com/bartektelec/shuuz-client) - Shoe e-commerce website. Vue 3, Vuex, TypeScript, Tailwind CSS, JWT, Strapi. [[source]](https://github.com/bartektelec/shuuz-client) [[demo]](https://bartektelec.github.io/shuuz-client/)
 - 📺 [Lameflix](https://github.com/bartektelec/react-netflix-clone) - Movie and series search, inspired to be a netflix clone. React, styled-components, storybook. [[source]](https://github.com/bartektelec/react-netflix-clone) [[demo]](https://bartektelec.github.io/react-netflix-clone/)
 - 🍔 [Foodie](https://github.com/bartektelec/foodie-app) - Food ordering / restaurant searching app. Vanilla JS (own view library) + Strapi on heroku. **demo might take a minute to load** [[source]](https://github.com/bartektelec/foodie-app) [[demo]](https://bartektelec.github.io/foodie-app/index.html)
-- 🎨 [JS color utility](https://github.com/bartektelec/color-utility) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utility)
+
 - 🗓 [Book my time](https://github.com/bartektelec/book-my-time) - 🚧 WIP meeting scheduler app, that sync with Google Calendar. React + node.js microservices. Coded together with [@Pierniki](https://github.com/Pierniki/). [[source]](https://github.com/bartektelec/book-my-time)
+
+### Other
+- 🪒 [store-scraper](https://github.com/bartektelec/store-scraper) - Script for scraping product data from norwegian grocery online stores. TypeScript, Puppeteer [[source]](https://github.com/bartektelec/store-scraper)
+- 🎨 [JS color utility](https://github.com/bartektelec/color-utility) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utility)
 
 ## Nerdin'
 - 🚀 See my progress on [exercism.io](https://exercism.io/profiles/bartektelec), where I work to improve my code quality.
