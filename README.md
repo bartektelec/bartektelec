@@ -20,7 +20,7 @@
 
 ### Other
 - 🪒 [store-scraper](https://github.com/bartektelec/store-scraper) - Script for scraping product data from norwegian grocery online stores. TypeScript, Puppeteer [[source]](https://github.com/bartektelec/store-scraper)
-- 🎨 [JS color utility](https://github.com/bartektelec/color-utility) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utility)
+- 🎨 [JS color utils](https://github.com/bartektelec/color-utils) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utils)
 
 ## Tech I like 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
