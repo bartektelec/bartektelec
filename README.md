@@ -19,6 +19,7 @@
 - 🗓 [Book my time](https://github.com/bartektelec/book-my-time) - 🚧 WIP meeting scheduler app, that sync with Google Calendar. React + node.js microservices. Coded together with [@Pierniki](https://github.com/Pierniki/). [[source]](https://github.com/bartektelec/book-my-time)
 
 ### Other
+- 🖼 [msg-thumbnails-chrome-ext](https://github.com/bartektelec/msg-thumbnails-chrome-ext) - Chrome extension that adds YouTube thumbnails to Messenger. [[source]](https://github.com/bartektelec/msg-thumbnails-chrome-ext)
 - 🪒 [store-scraper](https://github.com/bartektelec/store-scraper) - Script for scraping product data from norwegian grocery online stores. TypeScript, Puppeteer [[source]](https://github.com/bartektelec/store-scraper)
 - 🎨 [JS color utils](https://github.com/bartektelec/color-utils) - JavaScript utility tool for converting between different color formats. TypeScript. [[source]](https://github.com/bartektelec/color-utils)
 
