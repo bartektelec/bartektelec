@@ -6,13 +6,13 @@
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)][URLEmail]
 [![JavaScript](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][URLlinkedin]
 
-- 👨‍🎓 I am a Front-end developement student based in Oslo, Norway.
-- 🌱 I’m currently learning TypeScript and Vue.
-- 💁‍♂️ **Looking for a job, hit me up!**
+- 👨‍💻 I am a Front-end developer working at Hurtigruten in Oslo, Norway.
+- 🌱 I’m currently learning GraphQL and Svelte.
 - ☕ If you want to talk I speak Norwegian, English and Polish.
 - 🖼 More about me on my [personal portfolio](https://btelec.no/)
 
 ## Projects
+- 🥏 [prepare-react-app](https://github.com/bartektelec/prepare-react-app) - A tool for bootstrapping React projects with all the configuration that is needed, and as little effort as possible. [[npm]](https://www.npmjs.com/package/prepare-react-app) [[source]](https://github.com/bartektelec/prepare-react-app)
 - 👟 [Shuuz](https://github.com/bartektelec/shuuz-client) - Shoe e-commerce website. Vue 3, Vuex, TypeScript, Tailwind CSS, JWT, Strapi. [[source]](https://github.com/bartektelec/shuuz-client) [[demo]](https://bartektelec.github.io/shuuz-client/)
 - 📺 [Lameflix](https://github.com/bartektelec/react-netflix-clone) - Movie and series search, inspired to be a netflix clone. React, styled-components, storybook. [[source]](https://github.com/bartektelec/react-netflix-clone) [[demo]](https://bartektelec.github.io/react-netflix-clone/)
 - 🍔 [Foodie](https://github.com/bartektelec/foodie-app) - Food ordering / restaurant searching app. Vanilla JS (own view library) + Strapi on heroku. **demo might take a minute to load** [[source]](https://github.com/bartektelec/foodie-app) [[demo]](https://bartektelec.github.io/foodie-app/index.html)
