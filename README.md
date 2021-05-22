@@ -13,10 +13,10 @@
 
 ## Projects
 - 🥏 [prepare-react-app](https://github.com/bartektelec/prepare-react-app) - A tool for bootstrapping React projects with all the configuration that is needed, and as little effort as possible. [[npm]](https://www.npmjs.com/package/prepare-react-app) [[source]](https://github.com/bartektelec/prepare-react-app)
+- 🏘 [Holidaze](https://github.com/bartektelec/holidaze) - Hotel/BnB booking website. Next.js + Tailwind CSS [[demo]](https://holidaze-bartektelec.vercel.app/). [[source]](https://github.com/bartektelec/holidaze)
 - 👟 [Shuuz](https://github.com/bartektelec/shuuz-client) - Shoe e-commerce website. Vue 3, Vuex, TypeScript, Tailwind CSS, JWT, Strapi. [[source]](https://github.com/bartektelec/shuuz-client) [[demo]](https://bartektelec.github.io/shuuz-client/)
 - 📺 [Lameflix](https://github.com/bartektelec/react-netflix-clone) - Movie and series search, inspired to be a netflix clone. React, styled-components, storybook. [[source]](https://github.com/bartektelec/react-netflix-clone) [[demo]](https://bartektelec.github.io/react-netflix-clone/)
 - 🍔 [Foodie](https://github.com/bartektelec/foodie-app) - Food ordering / restaurant searching app. Vanilla JS (own view library) + Strapi on heroku. **demo might take a minute to load** [[source]](https://github.com/bartektelec/foodie-app) [[demo]](https://bartektelec.github.io/foodie-app/index.html)
-- 🗓 [Book my time](https://github.com/bartektelec/book-my-time) - 🚧 WIP meeting scheduler app, that sync with Google Calendar. React + node.js microservices. Coded together with [@Pierniki](https://github.com/Pierniki/). [[source]](https://github.com/bartektelec/book-my-time)
 
 ### Other
 - 🖼 [msg-thumbnails-chrome-ext](https://github.com/bartektelec/msg-thumbnails-chrome-ext) - Chrome extension that adds YouTube thumbnails to Messenger. [[source]](https://github.com/bartektelec/msg-thumbnails-chrome-ext)
