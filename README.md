@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][URLlinkedin]
 
 - 👨‍💻 I am a Front-end developer working at Hurtigruten in Oslo, Norway.
-- 🌱 I’m currently learning GraphQL and Svelte.
+- 🌱 I’m currently learning C#.NET and Svelte.
 - ☕ If you want to talk I speak Norwegian, English and Polish.
 - 🖼 More about me on my [personal portfolio](https://btelec.no/)
 
