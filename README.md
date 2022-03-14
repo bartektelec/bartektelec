@@ -6,9 +6,6 @@
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)][URLEmail]
 [![JavaScript](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][URLlinkedin]
 
-- 👨‍💻 Front-end developer
-- 📌 Oslo, Norway
-
 [URLemail]:mailto:bartektelec@gmail.com
 [URLportfolio]:https://www.btelec.no/
 [URLlinkedin]:https://www.linkedin.com/in/bart-telec
