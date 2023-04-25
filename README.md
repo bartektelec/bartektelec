@@ -7,3 +7,8 @@
 [URLemail]:mailto:bartektelec@gmail.com
 [URLportfolio]:https://www.btelec.no/
 [URLlinkedin]:https://www.linkedin.com/in/bart-telec
+
+
+_Don't be a React* Andy_
+- \* - pun intended**
+- ** - or was it even a pun?
