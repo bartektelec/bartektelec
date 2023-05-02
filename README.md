@@ -1,3 +1,5 @@
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bartektelec.bartektelec-readme)
 
 [![Portfolio](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)][URLportfolio]
@@ -9,6 +11,4 @@
 [URLlinkedin]:https://www.linkedin.com/in/bart-telec
 
 
-_Don't be a React* Andy_
-- \* - pun intended**
-- ** - or was it even a pun?
+_Don't be a React Andy_
