@@ -10,5 +10,3 @@
 [URLportfolio]:https://www.btelec.no/
 [URLlinkedin]:https://www.linkedin.com/in/bart-telec
 
-
-_Don't be a React Andy_
